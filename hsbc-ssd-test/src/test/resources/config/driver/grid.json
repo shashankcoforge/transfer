@@ -1,0 +1,14 @@
+[
+  {
+    "serverType": "grid",
+    "browserName": "chrome",
+    "version": "69",
+    "platform": "WINDOWS"
+  },
+  {
+    "serverType": "grid",
+    "browserName": "internet explorer",
+    "version": "11",
+    "platform": "WINDOWS"
+  }
+]

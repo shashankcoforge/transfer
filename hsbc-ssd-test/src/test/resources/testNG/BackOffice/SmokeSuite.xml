@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite1" parallel="classes" thread-count="1" data-provider-thread-count="1">
+    <test name="Back Office Regression Tests">
+        <classes>
+            <class name="hsbc.ssd.runners.ssd.SSDSmoke"/>
+        </classes>
+    </test>
+</suite>

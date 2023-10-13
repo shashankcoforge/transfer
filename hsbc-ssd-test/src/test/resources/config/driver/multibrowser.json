@@ -1,0 +1,11 @@
+[
+		{
+			"serverType":"local",
+			"browserName":"firefox"
+		},
+		{
+			"serverType":"local",
+			"browserName":"chrome"
+		}
+		
+]

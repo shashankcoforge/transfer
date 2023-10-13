@@ -1,0 +1,1532 @@
+[
+{
+	"InsuranceTariffID":8800001,
+	"ValueFrom":0,
+	"ValueTo":0,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800002,
+	"ValueFrom":0,
+	"ValueTo":50,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800002,
+	"ValueFrom":50.01,
+	"ValueTo":250,
+	"StartPrice":2.5,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800003,
+	"ValueFrom":0,
+	"ValueTo":50,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800003,
+	"ValueFrom":50.01,
+	"ValueTo":250,
+	"StartPrice":2.5,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":0,
+	"ValueTo":100,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":100.01,
+	"ValueTo":200,
+	"StartPrice":1.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":200.01,
+	"ValueTo":300,
+	"StartPrice":6.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":300.01,
+	"ValueTo":400,
+	"StartPrice":10.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":400.01,
+	"ValueTo":500,
+	"StartPrice":15.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":500.01,
+	"ValueTo":600,
+	"StartPrice":19.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":600.01,
+	"ValueTo":700,
+	"StartPrice":24.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":700.01,
+	"ValueTo":800,
+	"StartPrice":28.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":800.01,
+	"ValueTo":900,
+	"StartPrice":33.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":900.01,
+	"ValueTo":1000,
+	"StartPrice":37.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1000.01,
+	"ValueTo":1100,
+	"StartPrice":42.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1100.01,
+	"ValueTo":1200,
+	"StartPrice":46.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1200.01,
+	"ValueTo":1300,
+	"StartPrice":51.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1300.01,
+	"ValueTo":1400,
+	"StartPrice":55.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1400.01,
+	"ValueTo":1500,
+	"StartPrice":60.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1500.01,
+	"ValueTo":1600,
+	"StartPrice":64.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1600.01,
+	"ValueTo":1700,
+	"StartPrice":69.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1700.01,
+	"ValueTo":1800,
+	"StartPrice":73.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1800.01,
+	"ValueTo":1900,
+	"StartPrice":78.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":1900.01,
+	"ValueTo":2000,
+	"StartPrice":82.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":2000.01,
+	"ValueTo":2100,
+	"StartPrice":87.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":2100.01,
+	"ValueTo":2200,
+	"StartPrice":91.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":2200.01,
+	"ValueTo":2300,
+	"StartPrice":96.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":2300.01,
+	"ValueTo":2400,
+	"StartPrice":100.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800004,
+	"ValueFrom":2400.01,
+	"ValueTo":2500,
+	"StartPrice":105.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800005,
+	"ValueFrom":0,
+	"ValueTo":150,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800005,
+	"ValueFrom":150.01,
+	"ValueTo":500,
+	"StartPrice":12,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800005,
+	"ValueFrom":500.01,
+	"ValueTo":1000,
+	"StartPrice":24,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800005,
+	"ValueFrom":1000.01,
+	"ValueTo":1500,
+	"StartPrice":36,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800005,
+	"ValueFrom":1500.01,
+	"ValueTo":2000,
+	"StartPrice":48,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800005,
+	"ValueFrom":2000.01,
+	"ValueTo":2500,
+	"StartPrice":60,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800007,
+	"ValueFrom":0,
+	"ValueTo":0,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800008,
+	"ValueFrom":0,
+	"ValueTo":100,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800008,
+	"ValueFrom":100.01,
+	"ValueTo":200,
+	"StartPrice":1.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800008,
+	"ValueFrom":200.01,
+	"ValueTo":300,
+	"StartPrice":6.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800008,
+	"ValueFrom":300.01,
+	"ValueTo":400,
+	"StartPrice":10.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800008,
+	"ValueFrom":400.01,
+	"ValueTo":500,
+	"StartPrice":15.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":0,
+	"ValueTo":200,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":200.01,
+	"ValueTo":300,
+	"StartPrice":1.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":300.01,
+	"ValueTo":400,
+	"StartPrice":6.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":400.01,
+	"ValueTo":500,
+	"StartPrice":10.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":500.01,
+	"ValueTo":600,
+	"StartPrice":15.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":600.01,
+	"ValueTo":700,
+	"StartPrice":19.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":700.01,
+	"ValueTo":800,
+	"StartPrice":24.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":800.01,
+	"ValueTo":900,
+	"StartPrice":28.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":900.01,
+	"ValueTo":1000,
+	"StartPrice":33.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1000.01,
+	"ValueTo":1100,
+	"StartPrice":37.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1100.01,
+	"ValueTo":1200,
+	"StartPrice":42.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1200.01,
+	"ValueTo":1300,
+	"StartPrice":46.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1300.01,
+	"ValueTo":1400,
+	"StartPrice":51.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1400.01,
+	"ValueTo":1500,
+	"StartPrice":55.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1500.01,
+	"ValueTo":1600,
+	"StartPrice":60.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1600.01,
+	"ValueTo":1700,
+	"StartPrice":64.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1700.01,
+	"ValueTo":1800,
+	"StartPrice":69.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1800.01,
+	"ValueTo":1900,
+	"StartPrice":73.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":1900.01,
+	"ValueTo":2000,
+	"StartPrice":78.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":2000.01,
+	"ValueTo":2100,
+	"StartPrice":82.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":2100.01,
+	"ValueTo":2200,
+	"StartPrice":87.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":2200.01,
+	"ValueTo":2300,
+	"StartPrice":91.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":2300.01,
+	"ValueTo":2400,
+	"StartPrice":96.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800009,
+	"ValueFrom":2400.01,
+	"ValueTo":2500,
+	"StartPrice":100.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800011,
+	"ValueFrom":0,
+	"ValueTo":20,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800013,
+	"ValueFrom":0,
+	"ValueTo":500,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800013,
+	"ValueFrom":500.01,
+	"ValueTo":1000,
+	"StartPrice":1,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800013,
+	"ValueFrom":1000.01,
+	"ValueTo":2500,
+	"StartPrice":3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800015,
+	"ValueFrom":0,
+	"ValueTo":100,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800015,
+	"ValueFrom":100.01,
+	"ValueTo":500,
+	"StartPrice":12,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800015,
+	"ValueFrom":500.01,
+	"ValueTo":1000,
+	"StartPrice":24,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800015,
+	"ValueFrom":1000.01,
+	"ValueTo":1500,
+	"StartPrice":36,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800015,
+	"ValueFrom":1500.01,
+	"ValueTo":2000,
+	"StartPrice":48,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800015,
+	"ValueFrom":2000.01,
+	"ValueTo":2500,
+	"StartPrice":60,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800016,
+	"ValueFrom":0,
+	"ValueTo":50,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800016,
+	"ValueFrom":50.01,
+	"ValueTo":500,
+	"StartPrice":12,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800016,
+	"ValueFrom":500.01,
+	"ValueTo":1000,
+	"StartPrice":24,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800016,
+	"ValueFrom":1000.01,
+	"ValueTo":1500,
+	"StartPrice":36,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800016,
+	"ValueFrom":1500.01,
+	"ValueTo":2000,
+	"StartPrice":48,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800016,
+	"ValueFrom":2000.01,
+	"ValueTo":2500,
+	"StartPrice":60,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8800018,
+	"ValueFrom":0,
+	"ValueTo":20,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8870011,
+	"ValueFrom":0,
+	"ValueTo":0,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8880011,
+	"ValueFrom":0,
+	"ValueTo":50,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":8880018,
+	"ValueFrom":0,
+	"ValueTo":50,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000021,
+	"ValueFrom":0,
+	"ValueTo":50,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000021,
+	"ValueFrom":50,
+	"ValueTo":250,
+	"StartPrice":2.5,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":0,
+	"ValueTo":100,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":100.01,
+	"ValueTo":200,
+	"StartPrice":1.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":200.01,
+	"ValueTo":300,
+	"StartPrice":6.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":300.01,
+	"ValueTo":400,
+	"StartPrice":10.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":400.01,
+	"ValueTo":500,
+	"StartPrice":15.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":500.01,
+	"ValueTo":600,
+	"StartPrice":19.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":600.01,
+	"ValueTo":700,
+	"StartPrice":24.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":700.01,
+	"ValueTo":800,
+	"StartPrice":28.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":800.01,
+	"ValueTo":900,
+	"StartPrice":33.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":900.01,
+	"ValueTo":1000,
+	"StartPrice":37.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1000.01,
+	"ValueTo":1100,
+	"StartPrice":42.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1100.01,
+	"ValueTo":1200,
+	"StartPrice":46.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1200.01,
+	"ValueTo":1300,
+	"StartPrice":51.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1300.01,
+	"ValueTo":1400,
+	"StartPrice":55.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1400.01,
+	"ValueTo":1500,
+	"StartPrice":60.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1500.01,
+	"ValueTo":1600,
+	"StartPrice":64.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1600.01,
+	"ValueTo":1700,
+	"StartPrice":69.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1700.01,
+	"ValueTo":1800,
+	"StartPrice":73.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1800.01,
+	"ValueTo":1900,
+	"StartPrice":78.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":1900.01,
+	"ValueTo":2000,
+	"StartPrice":82.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":2000.01,
+	"ValueTo":2100,
+	"StartPrice":87.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":2100.01,
+	"ValueTo":2200,
+	"StartPrice":91.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":2200.01,
+	"ValueTo":2300,
+	"StartPrice":96.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":2300.01,
+	"ValueTo":2400,
+	"StartPrice":100.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000041,
+	"ValueFrom":2400.01,
+	"ValueTo":2500,
+	"StartPrice":105.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000081,
+	"ValueFrom":0,
+	"ValueTo":100,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000081,
+	"ValueFrom":100.01,
+	"ValueTo":200,
+	"StartPrice":1.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000081,
+	"ValueFrom":200.01,
+	"ValueTo":300,
+	"StartPrice":6.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000081,
+	"ValueFrom":300.01,
+	"ValueTo":400,
+	"StartPrice":10.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000081,
+	"ValueFrom":400.01,
+	"ValueTo":500,
+	"StartPrice":15.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":0,
+	"ValueTo":200,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":200.01,
+	"ValueTo":300,
+	"StartPrice":1.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":300.01,
+	"ValueTo":400,
+	"StartPrice":6.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":400.01,
+	"ValueTo":500,
+	"StartPrice":10.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":500.01,
+	"ValueTo":600,
+	"StartPrice":15.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":600.01,
+	"ValueTo":700,
+	"StartPrice":19.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":700.01,
+	"ValueTo":800,
+	"StartPrice":24.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":800.01,
+	"ValueTo":900,
+	"StartPrice":28.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":900.01,
+	"ValueTo":1000,
+	"StartPrice":33.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1000.01,
+	"ValueTo":1100,
+	"StartPrice":37.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1100.01,
+	"ValueTo":1200,
+	"StartPrice":42.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1200.01,
+	"ValueTo":1300,
+	"StartPrice":46.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1300.01,
+	"ValueTo":1400,
+	"StartPrice":51.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1400.01,
+	"ValueTo":1500,
+	"StartPrice":55.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1500.01,
+	"ValueTo":1600,
+	"StartPrice":60.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1600.01,
+	"ValueTo":1700,
+	"StartPrice":64.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1700.01,
+	"ValueTo":1800,
+	"StartPrice":69.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1800.01,
+	"ValueTo":1900,
+	"StartPrice":73.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":1900.01,
+	"ValueTo":2000,
+	"StartPrice":78.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":2000.01,
+	"ValueTo":2100,
+	"StartPrice":82.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":2100.01,
+	"ValueTo":2200,
+	"StartPrice":87.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":2200.01,
+	"ValueTo":2300,
+	"StartPrice":91.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":2300.01,
+	"ValueTo":2400,
+	"StartPrice":96.3,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000091,
+	"ValueFrom":2400.01,
+	"ValueTo":2500,
+	"StartPrice":100.8,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000121,
+	"ValueFrom":0,
+	"ValueTo":50,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000121,
+	"ValueFrom":50.01,
+	"ValueTo":1000,
+	"StartPrice":2.2,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000121,
+	"ValueFrom":1000.01,
+	"ValueTo":2500,
+	"StartPrice":5.7,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000131,
+	"ValueFrom":0,
+	"ValueTo":500,
+	"StartPrice":0,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000131,
+	"ValueFrom":500.01,
+	"ValueTo":1000,
+	"StartPrice":1.2,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000131,
+	"ValueFrom":1000.01,
+	"ValueTo":2500,
+	"StartPrice":3.6,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":null,
+	"SupplementText":null
+},
+{
+	"InsuranceTariffID":88000171,
+	"ValueFrom":0,
+	"ValueTo":1000,
+	"StartPrice":2.28,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":1,
+	"SupplementText":"£1000"
+},
+{
+	"InsuranceTariffID":88000171,
+	"ValueFrom":1000.01,
+	"ValueTo":2500,
+	"StartPrice":3.9,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":2,
+	"SupplementText":"£2500"
+},
+{
+	"InsuranceTariffID":88000171,
+	"ValueFrom":2500.01,
+	"ValueTo":5000,
+	"StartPrice":5.82,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":3,
+	"SupplementText":"£5000"
+},
+{
+	"InsuranceTariffID":88000171,
+	"ValueFrom":5000.01,
+	"ValueTo":7500,
+	"StartPrice":7.14,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":4,
+	"SupplementText":"£7500"
+},
+{
+	"InsuranceTariffID":88000171,
+	"ValueFrom":7500.01,
+	"ValueTo":10000,
+	"StartPrice":9.72,
+	"IncrementValue":0,
+	"IncrementPrice":0,
+	"SupplementCode":5,
+	"SupplementText":"£10000"
+}
+]
